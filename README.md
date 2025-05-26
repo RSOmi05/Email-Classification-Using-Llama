@@ -1,0 +1,2 @@
+# Email-Classification-Using-Llama
+This is a project for classifying emails into three different categories using Llama model
